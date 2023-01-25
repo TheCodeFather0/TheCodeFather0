@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I'm Ramin Mammadzada
+
+### I'm Frontend Developer
+
 
 <!--
 **RaminMammadov/RaminMammadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
