@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramin Mammadzada</h1>
-<h3 align="center">Fontend Developer from Azerbaijan</h3>
+<h3 align="center">Frontend Developer from Azerbaijan</h3>
 
 - 👀 I’m interested in anything belongs to programming
 - 🌱 I’m currently learning anything belongs to my interests
